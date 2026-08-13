@@ -35,6 +35,27 @@ O **VERITAS** é uma solução completa de controle de frequência biométrico c
 O artigo completo descrevendo a metodologia, diagramas de circuito e análises de desempenho está disponível neste repositório:
 👉 [Acessar artigo.pdf](./artigo.pdf)
 
+## 🏆 Premiação e Certificação Acadêmica
+
+> 🥇 **1º LUGAR – MELHOR TRABALHO APRESENTADO (Apresentação Oral)**
+> Este artigo e projeto foram avaliados por banca examinadora e **premiados como o melhor trabalho apresentado** na II Jornada de Pesquisa, Extensão e Internacionalização.
+
+### 📋 Detalhes da Certificação
+* **Trabalho Premiado:** VERITAS: Sistema Integrado de Controle de Acesso Biométrico com Inteligência Artificial
+* **Categoria:** Apresentação Oral (Melhor Trabalho)
+* **Evento:** II Jornada de Pesquisa, Extensão e Internacionalização
+* **Instituição:** Centro Universitário Estácio de Belém
+* **Período:** 17/06/2026 a 19/06/2026
+* **Emissão:** Pró-reitoria de Pesquisa, Extensão e Internacionalização (Profª Natalle do Socorro da C. Freitas)
+* 
+📄 **[Clique aqui para visualizar o Certificado em PDF](./certificado.pdf)**
+
+---
+
+### 🔍 Validação e Autenticidade do Certificado
+A autenticidade deste certificado pode ser verificada publicamente na plataforma Even3[cite: 2]:
+* **Código de Autenticidade:** `20818247.07826094.8406373.8.08182470782609484063738`[cite: 2]
+* **Link para Validação:** [Validar em Even3 Documentos](https://www.even3.com.br/documentos)[cite: 2]
 ---
 
 ## 👥 Autores
