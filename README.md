@@ -48,7 +48,7 @@ O artigo completo descrevendo a metodologia, diagramas de circuito e análises d
 * **Período:** 17/06/2026 a 19/06/2026
 * **Emissão:** Pró-reitoria de Pesquisa, Extensão e Internacionalização (Profª Natalle do Socorro da C. Freitas)
 * 
-* **Documento Digital:** 📄 **[Visualizar Certificado em PDF](./certificado.pdf)**
+* **Documento Digital:** 📄 **[Visualizar Certificado em PDF](./Certificado.pdf.PDF)**
 ---
 ## 👥 Autores
 * Geovanni Silva Honorato
