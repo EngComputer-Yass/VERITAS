@@ -48,16 +48,8 @@ O artigo completo descrevendo a metodologia, diagramas de circuito e análises d
 * **Período:** 17/06/2026 a 19/06/2026
 * **Emissão:** Pró-reitoria de Pesquisa, Extensão e Internacionalização (Profª Natalle do Socorro da C. Freitas)
 * 
-📄 **[Clique aqui para visualizar o Certificado em PDF](./certificado.pdf)**
-
+* **Documento Digital:** 📄 **[Visualizar Certificado em PDF](./certificado.pdf)**
 ---
-
-### 🔍 Validação e Autenticidade do Certificado
-A autenticidade deste certificado pode ser verificada publicamente na plataforma Even3[cite: 2]:
-* **Código de Autenticidade:** `20818247.07826094.8406373.8.08182470782609484063738`[cite: 2]
-* **Link para Validação:** [Validar em Even3 Documentos](https://www.even3.com.br/documentos)[cite: 2]
----
-
 ## 👥 Autores
 * Geovanni Silva Honorato
 * Elrick Vinícius Pinheiro de Almeida Leite
